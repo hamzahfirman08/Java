@@ -1,8 +1,4 @@
 /*
-* AUTHOR: Hamzah Firman
-* FILE: PA2Main.java
-* ASSIGNMENT: Programming Assignment 2 - Job Skills
-* COURSE: CSc 210; Section C; Summer 2020
 * PURPOSE: This program reads in two-to-three command-line arguments
 * where the first one is a csv file contains various job skills, second
 * is a Command (either 'CATCOUNTS' or 'LOCATIONS') to run on the data from 
@@ -12,7 +8,7 @@
 * that category.
 * 
 * USAGE:
-* java PA2Main infileName COMMAND optional 
+* java JobSkills infileName COMMAND optional 
 * 
 * where 'infileName' is the name of the directory of the input filename
 *, 'COMMAND' is the chosen command to run on the data and 'optional' 
